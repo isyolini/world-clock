@@ -1,7 +1,14 @@
 body {
-  background-color: aqua;
+}
+
+a:link {
+  text-decoration: none;
 }
 
 h1 {
+  text-align: center;
+}
+
+footer {
   text-align: center;
 }
