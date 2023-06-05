@@ -30,6 +30,10 @@ a {
   color: #f7f7f7;
 }
 
+a:hover {
+  color: #594f45;
+}
+
 footer {
   text-align: center;
   color: #000;
