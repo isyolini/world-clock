@@ -35,6 +35,11 @@ footer {
   color: #000;
   letter-spacing: 5px;
 }
+
+img {
+  max-width: 400px;
+  margin-bottom: 30px;
+}
 .container {
   background: linear-gradient(148deg, rgb(235, 220, 175), rgb(202, 149, 92))
     fixed;
